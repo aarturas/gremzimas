@@ -1,0 +1,16 @@
+{
+  "name": "vismafront",
+  "version": "1.0.0",
+  "description": "vismafront",
+  "main": "index.js",
+  "homepage": "https://aarturas.github.io/vismafront",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "author": "aarturas",
+  "license": "MIT"
+}

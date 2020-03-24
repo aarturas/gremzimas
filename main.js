@@ -1,5 +1,5 @@
 var images = '';
-fetch('https://picsum.photos/v2/list?limit=12') // kreipiamės į API šiuo adresu iš "picsum.photos"
+fetch('https://picsum.photos/v2/list?limit=24') // kreipiamės į API šiuo adresu iš "picsum.photos"
   .then(resp => resp.json()) // gautą rezultatą iš JS konvertuojame į JSON, susikalbėjimui su serveriu
   //    JSON suteikia galimybę laikyti „JavaScript“ objektus kaip tekstą.
 
